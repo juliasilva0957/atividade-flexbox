@@ -21,7 +21,7 @@ h1 {
     border: solid 2px #212427;
 
     display: flex;
-    justify-content: flex-end;
+    justify-content: center;
     align-items: flex-start;
     flex-direction: row;
 }
