@@ -22,7 +22,7 @@ h1 {
 
     display: flex;
     justify-content: center;
-    align-items: flex-start;
+    align-items: flex-end;
     flex-direction: row;
 }
 
